@@ -2,3 +2,30 @@ body {
 	margin-top: 20px;
 	margin-bottom: 10px;
 }
+
+.container {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.list-group {
+    margin-bottom: 30px;
+}
+
+.thumb {
+	margin-bottom: 30px;
+}
+
+.thumb img {
+	width: 100%;
+	border-bottom: 2px solid orange;	
+}
+
+.full {
+	margin-bottom: 30px;
+}
+
+.full img {
+	width: 100%;
+	border-bottom: 2px solid orange;	
+}
