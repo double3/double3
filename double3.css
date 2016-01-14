@@ -37,6 +37,15 @@ h3, .h3, h4, .h4 {
 /* 	border-bottom: 2px solid orange;	 */
 }
 
+.sm-old {
+	margin-bottom: 20px;
+}
+
+.sm-old img {
+	width: 100%;
+	border: 1px solid #bbb;
+}
+
 .lg {
 	margin-bottom: 0;
 	padding-top: 50px;
