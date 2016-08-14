@@ -21,6 +21,12 @@ body {
     padding-left: 10px;
 }
 
+.footer {
+    color: #999;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
 h3, .h3, h4, .h4 {
 	margin: 2px 0 5px 0;
 	font-family: 'Roboto', sans-serif;
@@ -56,13 +62,18 @@ h3, .h3, h4, .h4 {
 }
 
 .lg:last-child {
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 }
 
 .lg img {
 	width: 100%;
 	border: 1px solid #bbb;
 /* 	border-bottom: 2px solid orange;	 */
+}
+
+.md-grid {
+    padding-top: 50px;
+    margin-bottom: 20px;
 }
 
 .md {
